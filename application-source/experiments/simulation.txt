@@ -1,0 +1,18 @@
+C:\Users\Dizzy\Desktop\DPv3\neural-networks\neural-network.xml
+engineAcceleration:600
+timeOfLoop:1000
+muteSounds:false
+inputsSize:8
+outputsSize:4
+i0:0,100,0,100,0,100,0,50
+i1:0,100,0,100,0,100,51,100
+i2:0,100,0,100,0,50,0,100
+i3:0,100,0,100,51,100,0,100
+i4:0,100,0,50,0,100,0,100
+i5:0,100,51,100,0,100,0,100
+i6:0,50,0,100,0,100,0,100
+i7:51,100,0,100,0,100,0,100
+o0:Forward A
+o1:Backward A
+o2:Forward B
+o3:Backward B

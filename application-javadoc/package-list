@@ -1,0 +1,8 @@
+application.logic
+application.model
+application.model.enums
+application.model.ev3
+application.model.neuralnetwork
+application.model.neuralnetwork.backpropagation
+application.ui
+application.ui.scene
