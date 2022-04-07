@@ -4,7 +4,7 @@
 
 # EV3 Neural Network Controller
 
-The aim of the project is to design a method of control of an autonomous robot using artificial neural networks. The core of the project is the design of the controlling neural network, and generation and filtration of the training set using ART1 (Adaptive Resonance Theory). The outcome of the practical part is an assembled Lego Mindstorms EV3 robot solving the problem of avoiding obstacles in space.
+The aim of the project is to design a method of control of an autonomous robot using artificial neural networks. The core of the project is the design of the controlling neural network, and generation and filtration of the training set using ART1 (Adaptive Resonance Theory). You need an assembled Lego Mindstorms EV3 robot solving the problem of avoiding obstacles in space.
 
 Once you connect the EV3 device, you will see the name of the currently connected EV3 device and the battery status (in %). 
 
